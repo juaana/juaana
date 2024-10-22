@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ministerio de justicia y DDHH](https://intranet.mjus.gba.gob.ar/)
 
-- 👨‍💻 All of my projects are available at [https://juanazabaleta.myportfolio.com/](https://juanazabaleta.com/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://juanazabaleta.com.ar/)
 
 - 📫 How to reach me **jjuanazabaleta@gmail.com**
 
