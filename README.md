@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juana</h1> 
 <h3 align="center">A passionate frontend developer from Argentina</h3> 
 
-- 🔭 I’m currently working on [Ministerio de justicia y DDHH](https://intranet.mjus.gba.gob.ar/)
+- 🔭 I’m currently working on [Ministerio de justicia y DDHH](https://intranet.mjus.gba.gob.ar/) and [Alpinum Accounting AG](https://alpinum-accounting.ch/)
 - 👨‍💻 All of my projects are available at [my portfolio](https://juanazabaleta.com.ar/)
 - 📫 How to reach me **jjuanazabaleta@gmail.com**
 
